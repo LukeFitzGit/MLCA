@@ -5,8 +5,8 @@ This is an Email spam classifying model using Naive Bayes Algorithm.
 ### installing requirements
 1. to install requirements, in the terminal navigate to the root of the project.
 2. run the following 
-
-    pip3 install -r requirements.txt
+            
+        pip3 install -r requirements.txt
 
 (if this doesn't work for you then you can open the text file and try to install them individually with 'pip install [library]')
 
@@ -18,4 +18,4 @@ This is an Email spam classifying model using Naive Bayes Algorithm.
 1. navigate to the root of the project
 2. run the following 
 
-    python3 main.py
+        python3 main.py
