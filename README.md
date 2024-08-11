@@ -1,5 +1,6 @@
 # MLCA
 This is an Email spam classifying model using Naive Bayes Algorithm.
+It is VERY IMPORTANT that you follow the steps below to add the csv to the data file yourself. This file is too large and the upload link wont allow it.
 
 ## Set Up
 ### installing requirements
